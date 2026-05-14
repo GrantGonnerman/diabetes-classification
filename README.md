@@ -9,7 +9,7 @@ This project builds and compares multiple machine learning models to predict whe
 Early diabetes prediction enables proactive healthcare interventions. This project demonstrates both strong predictive modeling and MLOps best practices for reproducible, trackable machine learning workflows.
 
 ## 🗂️ Dataset
-- **Source**: Diabetes dataset ([Kaggle](https://www.kaggle.com/code/alexteboul/diabetes-health-indicators-dataset-notebook))
+- **Source**: Diabetes dataset ([Kaggle](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health/data))
 - **Target**: Binary classification (`Diabetes` vs `No Diabetes`)
 - **Features**: Blood glucose, BMI, insulin, blood pressure, age, pregnancies, skin thickness, and other clinical indicators.
 
